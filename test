@@ -4,3 +4,5 @@ Stash checking third time after adding and removing the file will see
 
 
 Checking the merging of master branch into developer branch and to know it is possible or not
+
+Changing the user name and config email id in git and updating the branch for testing.
